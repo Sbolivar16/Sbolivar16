@@ -16,7 +16,7 @@ I'm a Colombian native from Barranquilla and a huge soccer fan, especially of Ju
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/santiago-bolivar/) | [Google Scholar](https://scholar.google.com/citations?user=...) | [Twitter](https://twitter.com/sbolivar16)
+[LinkedIn]([https://www.linkedin.com/in/santiago-bolivar/](https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/)) | [Google Scholar](https://scholar.google.com/citations?user=...) | [Twitter](https://twitter.com/sbolivar16)
 
 Feel free to reach out for collaboration on **drug discovery**, **molecular docking**, or any related topics!  
 <!--

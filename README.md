@@ -9,7 +9,7 @@
 📫 How to reach me: sbolivar16@outlook.com
 
 📄 **Know about my experiences**  
-I am a chemist with a Ph.D. in Chemical Sciences. I have a master's degree in Pharmaceutical Sciences from the University of Atlántico. My expertise includes organic synthesis of natural products and the isolation of plant-based natural compounds. My primary interests are in molecular docking and the use of in silico tools for drug discovery.
+I am a chemist with a Ph.D. in Chemical Sciences. I have a master's degree in Pharmaceutical Sciences from the University of Cartagena, and Im Chemist of the University of Atlántico. My expertise includes organic synthesis of natural products and the isolation of plant-based natural compounds. My primary interests are in molecular docking and the use of in silico tools for drug discovery.
 
 ⚡ **Fun fact**  
 I'm a Colombian native from Barranquilla and a huge soccer fan, especially of Junior de Barranquilla (🦈), Newells (🔴⚫️), and FC Barcelona (🔵🔴).

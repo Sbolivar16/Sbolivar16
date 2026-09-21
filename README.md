@@ -25,16 +25,16 @@
 
 ## 🧪 About Me
 
-I'm a chemist with a **Ph.D. in Chemical Sciences**, an **M.Sc. in Pharmaceutical Sciences** (Universidad de Cartagena), and a **B.Sc. in Chemistry** (Universidad del Atlántico). My work sits at the intersection of the wet lab and the screen: organic synthesis of natural products, isolation of plant-based compounds, and — more recently — in silico drug discovery.
+I'm a chemist with a **Ph.D. in Chemical Sciences** (National University of Rosario, Argentina), an **M.Sc. in Pharmaceutical Sciences** (Universidad de Cartagena), and a **B.Sc. in Chemistry** (Universidad del Atlántico). My work sits at the intersection of the wet lab and the screen: organic synthesis of natural products, isolation of plant-based compounds, and — more recently — in silico drug discovery.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎓 Education**
-- Ph.D. in Chemical Sciences
-- M.Sc. in Pharmaceutical Sciences — Universidad de Cartagena
-- B.Sc. in Chemistry — Universidad del Atlántico
+- Ph.D. in Chemical Sciences - National University of Rosario, Argentina
+- M.Sc. in Pharmaceutical Sciences — Universidad de Cartagena, Colombia
+- B.Sc. in Chemistry — Universidad del Atlántico, Colombia
 
 </td>
 <td width="50%" valign="top">

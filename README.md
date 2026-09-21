@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santiago%20Bolívar%20A.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chemist%20%7C%20Ph.D.%20%7C%20In%20Silico%20Drug%20Discovery&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/TU-USUARIO">
+<a href="https://linkedin.com/in/YOUR-USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://orcid.org/0000-0002-3772-7604">
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
-<a href="https://twitter.com/TU-USUARIO">
+<a href="https://twitter.com/YOUR-USERNAME">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="mailto:sbolivar16@outlook.com">
@@ -23,7 +23,7 @@
 
 <br/>
 
-## 🧪 Sobre mí
+## 🧪 About Me
 
 ```python
 class SantiagoBolivar:
@@ -45,26 +45,26 @@ class SantiagoBolivar:
 
 ---
 
-## 🔬 Áreas de trabajo
+## 🔬 Areas of Work
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### 🌿
-**Síntesis de<br/>Productos Naturales**
+**Natural Products<br/>Synthesis**
 
 </td>
 <td width="33%" align="center">
 
 ### 💻
-**Herramientas In Silico<br/>para Drug Discovery**
+**In Silico Tools for<br/>Drug Discovery**
 
 </td>
 <td width="33%" align="center">
 
 ### 🧬
-**Docking<br/>Molecular**
+**Molecular<br/>Docking**
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ class SantiagoBolivar:
 
 ---
 
-## 🛠️ Stack & Herramientas
+## 🛠️ Stack & Tools
 
 <div align="center">
 
@@ -82,18 +82,18 @@ class SantiagoBolivar:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-2C5364?style=for-the-badge&logo=molecule&logoColor=white)
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-2C5364?style=for-the-badge)
 ![GROMACS](https://img.shields.io/badge/GROMACS-1F6FEB?style=for-the-badge)
 ![PyMOL](https://img.shields.io/badge/PyMOL-14B8A6?style=for-the-badge)
 ![RDKit](https://img.shields.io/badge/RDKit-8957E5?style=for-the-badge)
 
 </div>
 
-> ✏️ *Ajusta este bloque de badges según las herramientas que realmente usas (Vina, Schrödinger, MOE, ChemDraw, MNova, etc.)*
+> ✏️ *Adjust this badge block to match the tools you actually use (Vina, Schrödinger, MOE, ChemDraw, MNova, etc.)*
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@ class SantiagoBolivar:
 
 </div>
 
-### 📈 Actividad reciente
+### 📈 Recent Activity
 
 <div align="center">
 
@@ -112,7 +112,7 @@ class SantiagoBolivar:
 
 </div>
 
-### 🏆 Trofeos
+### 🏆 Trophies
 
 <div align="center">
 
@@ -122,7 +122,7 @@ class SantiagoBolivar:
 
 ---
 
-## 📌 Repositorios destacados
+## 📌 Pinned Repositories
 
 <div align="center">
 
@@ -133,23 +133,23 @@ class SantiagoBolivar:
 
 ---
 
-## ⚡ Dato curioso
+## ⚡ Fun Fact
 
-Soy de **Barranquilla**, Colombia, y fanático del fútbol: sigo al **Junior de Barranquilla** 🦈, **Newell's Old Boys** 🔴⚫ y **FC Barcelona** 🔵🔴.
+I'm from **Barranquilla**, Colombia, and a huge soccer fan: I follow **Junior de Barranquilla** 🦈, **Newell's Old Boys** 🔴⚫, and **FC Barcelona** 🔵🔴.
 
 ---
 
 <div align="center">
 
-### 📬 Hablemos de ciencia, química computacional o fútbol
+### 📬 Let's talk science, computational chemistry, or soccer
 
 <a href="mailto:sbolivar16@outlook.com">
-  <img src="https://img.shields.io/badge/Escríbeme-sbolivar16%40outlook.com-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reach%20out-sbolivar16%40outlook.com-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=58A6FF&style=for-the-badge&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=58A6FF&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 

@@ -25,23 +25,29 @@
 
 ## 🧪 About Me
 
-```python
-class SantiagoBolivar:
-    def __init__(self):
-        self.role        = "Chemist · Ph.D. in Chemical Sciences"
-        self.location    = "Barranquilla, Colombia 🇨🇴"
-        self.education   = [
-            "Ph.D. in Chemical Sciences",
-            "M.Sc. in Pharmaceutical Sciences — Universidad de Cartagena",
-            "B.Sc. in Chemistry — Universidad del Atlántico"
-        ]
-        self.expertise   = ["Natural Products Synthesis", "Plant-based Compound Isolation"]
-        self.currently_learning = "In silico tools for drug discovery"
-        self.looking_for = "Collaborators on in silico / molecular docking projects 🤝"
+I'm a chemist with a **Ph.D. in Chemical Sciences**, an **M.Sc. in Pharmaceutical Sciences** (Universidad de Cartagena), and a **B.Sc. in Chemistry** (Universidad del Atlántico). My work sits at the intersection of the wet lab and the screen: organic synthesis of natural products, isolation of plant-based compounds, and — more recently — in silico drug discovery.
 
-    def contact(self):
-        return "sbolivar16@outlook.com"
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education**
+- Ph.D. in Chemical Sciences
+- M.Sc. in Pharmaceutical Sciences — Universidad de Cartagena
+- B.Sc. in Chemistry — Universidad del Atlántico
+
+</td>
+<td width="50%" valign="top">
+
+**🔭 Focus**
+- Natural Products Synthesis
+- Plant-based Compound Isolation
+- 🌱 Currently learning: in silico tools for drug discovery
+- 🤝 Open to collaborate on molecular docking projects
+
+</td>
+</tr>
+</table>
 
 ---
 

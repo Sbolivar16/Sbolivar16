@@ -33,7 +33,7 @@
   </g>
   <g transform="translate(348, 50)">
     <rect width="142" height="92" rx="10" fill="#08121e" stroke="#818cf8" stroke-opacity="0.3"/>
-    <text x="18" y="44" class="val">5</text>
+    <text x="18" y="44" class="val">6</text>
     <text x="18" y="70" class="lbl">◫ Scientific Repos</text>
   </g>
   <g transform="translate(506, 50)">

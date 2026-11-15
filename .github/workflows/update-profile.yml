@@ -13,6 +13,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
 jobs:
   update-metrics-and-orcid:
     runs-on: ubuntu-latest

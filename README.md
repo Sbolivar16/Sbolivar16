@@ -1,162 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Santiago%20Bolívar%20A.&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Chemist%20%7C%20Ph.D.%20%7C%20In%20Silico%20Drug%20Discovery&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/hero-banner.svg" alt="Santiago Bolívar Ávila, Ph.D. — Computational Chemistry & In Silico Drug Discovery" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/><br/>
+
+<a href="https://sbolivar16.github.io">
+  <img src="https://img.shields.io/badge/Interactive_3D_Portfolio-sbolivar16.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://orcid.org/0000-0002-3772-7604">
-  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORCID-0000--0002--3772--7604-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://www.researchgate.net/profile/Santiago-Bolivar-Avila">
+  <img src="https://img.shields.io/badge/ResearchGate-Santiago_Bolívar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:sbolivar16@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-sbolivar16@outlook.com-1e293b?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Chemist+%7C+Ph.D.+in+Chemical+Sciences;Natural+Products+Synthesis;Molecular+Docking+%26+In+Silico+Drug+Design;Building+bridges+between+the+bench+and+the+screen" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## 🧪 About Me
-
-I'm a chemist with a **Ph.D. in Chemical Sciences** (National University of Rosario, Argentina), an **M.Sc. in Pharmaceutical Sciences** (Universidad de Cartagena), and a **B.Sc. in Chemistry** (Universidad del Atlántico). My work sits at the intersection of the wet lab and the screen: organic synthesis of natural products, isolation of plant-based compounds, and — more recently — in silico drug discovery.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-- Ph.D. in Chemical Sciences - National University of Rosario, Argentina
-- M.Sc. in Pharmaceutical Sciences — Universidad de Cartagena, Colombia
-- B.Sc. in Chemistry — Universidad del Atlántico, Colombia
-
-</td>
-<td width="50%" valign="top">
-
-**🔭 Focus**
-- Natural Products Synthesis
-- Plant-based Compound Isolation
-- 🌱 Currently learning: in silico tools for drug discovery
-- 🤝 Open to collaborate on molecular docking projects
-
-</td>
-</tr>
-</table>
+> **Chemist, Ph.D. in Chemical Sciences** (*Universidad Nacional de Rosario, Argentina*) · **M.Sc. in Pharmaceutical Sciences** (*Universidad de Cartagena*) · **B.Sc. in Chemistry** (*Universidad del Atlántico*).
+>
+> My research bridges **natural products chemistry and total synthesis** with **reproducible *in silico* drug discovery** — developing open-source workflows for **QSAR modeling**, **multi-engine molecular docking**, **GROMACS MD preparation**, and **binding free energy analysis**.
 
 ---
 
-## 🔬 Areas of Work
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🌿
-**Natural Products<br/>Synthesis**
-
-</td>
-<td width="33%" align="center">
-
-### 💻
-**In Silico Tools for<br/>Drug Discovery**
-
-</td>
-<td width="33%" align="center">
-
-### 🧬
-**Molecular<br/>Docking**
-
-</td>
-</tr>
-</table>
+### 🌐 Interactive Portfolio & 3D Molecular Explorer
+Explore my research pipeline, live repository metrics, BibTeX publication archive, and an **interactive 3D protein-ligand viewer** at **[sbolivar16.github.io](https://sbolivar16.github.io)**.
 
 ---
 
-## 🛠️ Stack & Tools
+### 🧬 End-to-End *In Silico* Drug Discovery Ecosystem
+
+<div align="center">
+  <img src="./assets/pipeline-banner.svg" alt="In Silico Drug Discovery Computational Pipeline" width="100%"/>
+</div>
+
+<br/>
+
+| Stage | Repository | Highlights | 1-Click Launch |
+| :--- | :--- | :--- | :--- |
+| **MD System Setup** | [**MD-Prep-Studio**](https://github.com/Sbolivar16/MD-Prep-Studio) | Local web app (`PDBFixer` + `PROPKA` + `RDKit`/`ACPYPE` + `GROMACS` + SLURM + paper methods generator) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23577063.svg)](https://doi.org/10.5281/zenodo.23577063) |
+| **Molecular Docking** | [**MolecularDocking**](https://github.com/Sbolivar16/MolecularDocking) | `AutoDock Vina`, `GNINA` CNN, `PandaDock`, `UniGBSA` rescoring & pharmacophore mapping (`32 ★`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/MolecularDocking/blob/main/GNINA_and_Vina_Analysis.ipynb) |
+| **QSAR & Screening** | [**QSAR_Tools**](https://github.com/Sbolivar16/QSAR_Tools) | Universal ChEMBL QSAR pipeline: RF/XGBoost/SVM, Williams domain, SHAP SAR, ADMET & analog design | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/QSAR_Tools/blob/main/QSAR_Universal_Interactive.ipynb) |
+| **MD Analysis** | [**Gromacs-Tools**](https://github.com/Sbolivar16/Gromacs-Tools) | Trajectory diagnostics (`RMSD`, `RMSF`, `Rg`, `SASA`, H-bonds) & `g_MMPBSA` decomposition (`10 ★`) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/Gromacs-Tools/blob/main/g_MMPBSA_Analysis.ipynb) |
+| **Cheminformatics** | [**-cheminformatics**](https://github.com/Sbolivar16/-cheminformatics) | Molecular descriptors (`Datamol`, `RDKit`), `OpenBabel` conversions & chemical space analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sbolivar16/-cheminformatics/blob/main/DatamolMolecularDescriptor.ipynb) |
+
+---
+
+### 📊 Live Open-Source Impact & Activity
+
+<div align="center">
+  <img src="./assets/stats-card.svg" alt="Live GitHub Research Metrics" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sbolivar16/Sbolivar16/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sbolivar16/Sbolivar16/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sbolivar16/Sbolivar16/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+### 📑 Interactive Research Dossier *(Click to Expand)*
+
+<details open>
+<summary><b>📚 Peer-Reviewed Publications (Auto-synced from ORCID)</b></summary>
+
+<br/>
+
+<!-- ORCID_PUBLICATIONS:START -->
+| Year | Publication | Journal | Link |
+|:---:|---|---|---|
+| **2025** | Computational screening of natural products as tryptophan 2,3-dioxygenase inhibitors: Insights from CNN-based QSAR, molecular docking, ADMET, and molecular dynamics simulations | *Computers in Biology and Medicine* | [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.110199-0ea5e9?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.110199) |
+| **2024** | Drug repositioning for rosacea disease: Biological TARGET identification, molecular docking, pharmacophore mapping, and molecular dynamics analysis | *Computers in Biology and Medicine* | [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2024.108988-0ea5e9?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2024.108988) |
+| **2023** | Step-Economic Total Synthesis of Melosatin A from Eugenol | *ACS Omega* | [![DOI](https://img.shields.io/badge/DOI-10.1021/acsomega.3c02722-0ea5e9?style=flat-square)](https://doi.org/10.1021/acsomega.3c02722) |
+| **2018** | Total Synthesis of Waltherione F, a Nonrutaceous 3-Methoxy-4-quinolone, Isolated from Waltheria indica L. F. | *Organic Letters* | [![DOI](https://img.shields.io/badge/DOI-10.1021/acs.orglett.8b02221-0ea5e9?style=flat-square)](https://doi.org/10.1021/acs.orglett.8b02221) |
+| **2017** | Antiviral effect of compounds derived from the seeds of Mammea americana and Tabernaemontana cymosa on Dengue and Chikungunya virus infections | *BMC Complementary and Alternative Medicine* | [![DOI](https://img.shields.io/badge/DOI-10.1186/s12906--017--1562--1-0ea5e9?style=flat-square)](https://doi.org/10.1186/s12906-017-1562-1) |
+<!-- ORCID_PUBLICATIONS:END -->
+
+</details>
+
+<details>
+<summary><b>🎓 Academic Trajectory & Wet-Lab to In Silico Bridge</b></summary>
+
+<br/>
+
+| Period | Degree / Role | Institution | Focus |
+|---|---|---|---|
+| **2018 – 2024** | **Ph.D. in Chemical Sciences** | Universidad Nacional de Rosario (Argentina) | Total synthesis of natural products & organic chemistry |
+| **2015 – 2017** | **M.Sc. in Pharmaceutical Sciences** | Universidad de Cartagena (Colombia) | Antiviral natural products (Dengue & Chikungunya) |
+| **2008 – 2014** | **B.Sc. in Chemistry** | Universidad del Atlántico (Colombia) | Organic & analytical chemistry |
+
+</details>
+
+<details>
+<summary><b>🛠️ Computational & Scientific Stack</b></summary>
+
+<br/>
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_&_Colab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_&_SLURM-0f172a?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git_&_Actions-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-2C5364?style=for-the-badge)
-![GROMACS](https://img.shields.io/badge/GROMACS-1F6FEB?style=for-the-badge)
-![PyMOL](https://img.shields.io/badge/PyMOL-14B8A6?style=for-the-badge)
-![RDKit](https://img.shields.io/badge/RDKit-8957E5?style=for-the-badge)
-
-</div>
-
-> ✏️ *Adjust this badge block to match the tools you actually use (Vina, Schrödinger, MOE, ChemDraw, MNova, etc.)*
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sbolivar16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sbolivar16&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sbolivar16&theme=tokyonight&hide_border=true" />
+![AutoDock Vina](https://img.shields.io/badge/AutoDock_Vina-0284c7?style=for-the-badge)
+![GNINA](https://img.shields.io/badge/GNINA_CNN-0d9488?style=for-the-badge)
+![GROMACS](https://img.shields.io/badge/GROMACS-1d4ed8?style=for-the-badge)
+![RDKit](https://img.shields.io/badge/RDKit_&_Datamol-6366f1?style=for-the-badge)
+![OpenMM](https://img.shields.io/badge/OpenMM_&_PDBFixer-0f766e?style=for-the-badge)
+![PyMOL](https://img.shields.io/badge/PyMOL_&_3Dmol.js-0369a1?style=for-the-badge)
 
 </div>
 
-### 📈 Recent Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sbolivar16&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sbolivar16&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sbolivar16&repo=MolecularDocking&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sbolivar16&repo=Gromacs-Tools&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## ⚡ Fun Fact
-
-I'm from **Barranquilla**, Colombia, and a huge soccer fan: I follow **Junior de Barranquilla** 🦈, **Newell's Old Boys** 🔴⚫, and **FC Barcelona** 🔵🔴.
+</details>
 
 ---
 
 <div align="center">
 
-### 📬 Let's talk science, computational chemistry, or soccer
+**Always open to research collaborations in computational drug discovery, natural products, and open-source cheminformatics.**
 
 <a href="mailto:sbolivar16@outlook.com">
-  <img src="https://img.shields.io/badge/Reach%20out-sbolivar16%40outlook.com-2ea44f?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Collaborate-sbolivar16@outlook.com-0d9488?style=for-the-badge&logo=maildotru&logoColor=white"/>
 </a>
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=0ea5e9&style=for-the-badge&label=Profile+Views)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=58A6FF&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="./assets/footer-banner.svg" alt="Footer Banner" width="100%"/>
 
 </div>

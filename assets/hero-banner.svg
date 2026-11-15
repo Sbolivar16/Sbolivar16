@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="300" role="img" aria-label="Santiago Bolívar Ávila, Ph.D. — Computational Chemistry &amp; In Silico Drug Discovery">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111a"/>
+      <stop offset="50%" stop-color="#0d2233"/>
+      <stop offset="100%" stop-color="#0a2e36"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94a3b8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font: 700 44px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #f8fafc; letter-spacing: -0.5px; }
+    .subtitle { font: 500 18px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; fill: #94a3b8; letter-spacing: 0.4px; }
+    .pill-text { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #e2e8f0; letter-spacing: 0.8px; }
+    .kicker { font: 600 13px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #2dd4bf; letter-spacing: 2px; }
+    .mol-float { animation: floatSlow 7s ease-in-out infinite; transform-origin: center; }
+    .mol-float-2 { animation: floatSlow 9s ease-in-out infinite reverse; transform-origin: center; }
+    .pulse-node { animation: pulseNode 3.2s ease-in-out infinite; }
+    .pulse-node-delay { animation: pulseNode 3.2s ease-in-out 1.4s infinite; }
+    .dash-flow { stroke-dasharray: 8 6; animation: dashMove 18s linear infinite; }
+    @keyframes floatSlow {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-7px); }
+    }
+    @keyframes pulseNode {
+      0%, 100% { opacity: 0.55; r: 4.5; }
+      50% { opacity: 1; r: 6.5; }
+    }
+    @keyframes dashMove {
+      to { stroke-dashoffset: -280; }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="300" rx="16" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <circle cx="960" cy="145" r="210" fill="url(#glow1)"/>
+  <circle cx="200" cy="70" r="180" fill="url(#glow2)"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="4" rx="2" fill="url(#accentGrad)"/>
+
+  <!-- Decorative Molecular Structure Right -->
+  <g class="mol-float" transform="translate(860, 48)" opacity="0.9">
+    <!-- Fused Aromatic Rings (Indole/Quinolone motif) -->
+    <polygon points="90,35 135,61 135,113 90,139 45,113 45,61" fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.65"/>
+    <polygon points="135,61 180,35 225,61 225,113 180,139 135,113" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.75"/>
+    <polygon points="180,139 225,165 210,213 155,213 135,165" fill="none" stroke="#818cf8" stroke-width="1.8" stroke-opacity="0.6"/>
+    <!-- Aromatic inner circles / double bonds -->
+    <circle cx="90" cy="87" r="24" fill="none" stroke="#38bdf8" stroke-width="1.4" stroke-dasharray="5 4" stroke-opacity="0.55"/>
+    <circle cx="180" cy="87" r="24" fill="none" stroke="#2dd4bf" stroke-width="1.4" stroke-dasharray="5 4" stroke-opacity="0.65"/>
+    <!-- Substituent bonds -->
+    <line x1="45" y1="61" x2="10" y2="41" stroke="#38bdf8" stroke-width="1.6" stroke-opacity="0.55"/>
+    <line x1="225" y1="61" x2="265" y2="39" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.65"/>
+    <line x1="225" y1="113" x2="270" y2="128" stroke="#818cf8" stroke-width="1.6" stroke-opacity="0.55"/>
+    <!-- H-bond interaction dashed line -->
+    <line class="dash-flow" x1="10" y1="41" x2="-45" y2="95" stroke="#2dd4bf" stroke-width="1.5" stroke-opacity="0.65"/>
+    <!-- Atom nodes -->
+    <circle class="pulse-node" cx="90" cy="35" r="5" fill="#38bdf8"/>
+    <circle class="pulse-node-delay" cx="180" cy="35" r="5" fill="#2dd4bf"/>
+    <circle class="pulse-node" cx="225" cy="113" r="5" fill="#818cf8"/>
+    <circle cx="135" cy="61" r="4" fill="#e2e8f0" opacity="0.8"/>
+    <circle cx="135" cy="113" r="4" fill="#e2e8f0" opacity="0.8"/>
+    <circle cx="265" cy="39" r="5.5" fill="#f43f5e" opacity="0.85"/>
+    <circle cx="10" cy="41" r="5.5" fill="#38bdf8" opacity="0.85"/>
+  </g>
+
+  <!-- Floating orbital wave -->
+  <g class="mol-float-2" opacity="0.35">
+    <path d="M 760 250 Q 900 190 1040 245 T 1180 215" fill="none" stroke="url(#accentGrad)" stroke-width="1.5"/>
+  </g>
+
+  <!-- Main Typography -->
+  <text x="56" y="74" class="kicker">COMPUTATIONAL CHEMISTRY &amp; IN SILICO DRUG DISCOVERY</text>
+  <text x="56" y="132" class="title">Santiago Bolívar Ávila, Ph.D.</text>
+  <text x="56" y="170" class="subtitle">Ph.D. in Chemical Sciences (UNR) · M.Sc. Pharmaceutical Sciences · Natural Products &amp; CADD</text>
+
+  <!-- Research Pillar Pills -->
+  <g transform="translate(56, 206)">
+    <rect x="0" y="0" width="166" height="32" rx="16" fill="#0f293d" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="83" y="20" text-anchor="middle" class="pill-text">MOLECULAR DOCKING</text>
+
+    <rect x="180" y="0" width="142" height="32" rx="16" fill="#0f293d" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <text x="251" y="20" text-anchor="middle" class="pill-text">QSAR &amp; ADMET</text>
+
+    <rect x="336" y="0" width="186" height="32" rx="16" fill="#0f293d" stroke="#818cf8" stroke-opacity="0.45"/>
+    <text x="429" y="20" text-anchor="middle" class="pill-text">MOLECULAR DYNAMICS</text>
+
+    <rect x="536" y="0" width="174" height="32" rx="16" fill="#0f293d" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="623" y="20" text-anchor="middle" class="pill-text">NATURAL PRODUCTS</text>
+  </g>
+</svg>

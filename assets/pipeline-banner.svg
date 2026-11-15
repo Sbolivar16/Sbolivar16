@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 185" width="100%" height="185" role="img" aria-label="In Silico Drug Discovery Computational Pipeline">
+  <defs>
+    <linearGradient id="pbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1522"/>
+      <stop offset="50%" stop-color="#0f2233"/>
+      <stop offset="100%" stop-color="#0b1926"/>
+    </linearGradient>
+    <linearGradient id="flowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .hdr { font: 700 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #2dd4bf; letter-spacing: 1.8px; }
+    .num { font: 700 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #94a3b8; }
+    .stitle { font: 700 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #f1f5f9; }
+    .ssub { font: 500 11.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; fill: #94a3b8; }
+    .srepo { font: 600 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #38bdf8; }
+    .flow { stroke-dasharray: 6 5; animation: pflow 10s linear infinite; }
+    @keyframes pflow { to { stroke-dashoffset: -110; } }
+  </style>
+
+  <rect width="1200" height="185" rx="14" fill="url(#pbg)" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="32" y="30" class="hdr">END-TO-END IN SILICO DRUG DISCOVERY PIPELINE</text>
+
+  <!-- Connector line -->
+  <line x1="120" y1="96" x2="1080" y2="96" stroke="url(#flowLine)" stroke-width="2" class="flow" opacity="0.75"/>
+
+  <!-- Stage 1 -->
+  <g transform="translate(28, 50)">
+    <rect width="206" height="112" rx="12" fill="#0f2438" stroke="#38bdf8" stroke-opacity="0.45"/>
+    <text x="16" y="24" class="num">01 · CURATION</text>
+    <text x="16" y="48" class="stitle">Chemical Space</text>
+    <text x="16" y="68" class="ssub">Descriptors, standardization</text>
+    <text x="16" y="83" class="ssub">&amp; chemical library profiling</text>
+    <text x="16" y="101" class="srepo">-cheminformatics</text>
+  </g>
+
+  <!-- Stage 2 -->
+  <g transform="translate(262, 50)">
+    <rect width="206" height="112" rx="12" fill="#0f2438" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <text x="16" y="24" class="num">02 · ML SCREENING</text>
+    <text x="16" y="48" class="stitle">QSAR &amp; ADMET</text>
+    <text x="16" y="68" class="ssub">ChEMBL, SHAP SAR, Williams</text>
+    <text x="16" y="83" class="ssub">domain &amp; analog design</text>
+    <text x="16" y="101" class="srepo">QSAR_Tools</text>
+  </g>
+
+  <!-- Stage 3 -->
+  <g transform="translate(496, 50)">
+    <rect width="206" height="112" rx="12" fill="#0f2438" stroke="#38bdf8" stroke-opacity="0.55"/>
+    <text x="16" y="24" class="num">03 · POSE PREDICTION</text>
+    <text x="16" y="48" class="stitle">Molecular Docking</text>
+    <text x="16" y="68" class="ssub">Vina, GNINA CNN, PandaDock,</text>
+    <text x="16" y="83" class="ssub">UniGBSA &amp; pharmacophores</text>
+    <text x="16" y="101" class="srepo">MolecularDocking ★ 32</text>
+  </g>
+
+  <!-- Stage 4 -->
+  <g transform="translate(730, 50)">
+    <rect width="206" height="112" rx="12" fill="#0f2438" stroke="#818cf8" stroke-opacity="0.55"/>
+    <text x="16" y="24" class="num">04 · SYSTEM PREP</text>
+    <text x="16" y="48" class="stitle">MD Setup &amp; HPC</text>
+    <text x="16" y="68" class="ssub">PDBFixer, PROPKA, ACPYPE,</text>
+    <text x="16" y="83" class="ssub">AMBER99SB-ILDN &amp; SLURM</text>
+    <text x="16" y="101" class="srepo">MD-Prep-Studio · DOI</text>
+  </g>
+
+  <!-- Stage 5 -->
+  <g transform="translate(964, 50)">
+    <rect width="208" height="112" rx="12" fill="#0f2438" stroke="#2dd4bf" stroke-opacity="0.45"/>
+    <text x="16" y="24" class="num">05 · TRAJECTORIES</text>
+    <text x="16" y="48" class="stitle">GROMACS &amp; MM/PBSA</text>
+    <text x="16" y="68" class="ssub">RMSD, RMSF, Rg, SASA,</text>
+    <text x="16" y="83" class="ssub">H-bonds &amp; free energy</text>
+    <text x="16" y="101" class="srepo">Gromacs-Tools ★ 10</text>
+  </g>
+</svg>

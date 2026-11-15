@@ -46,10 +46,10 @@
   <g transform="translate(684, 52)">
     <text x="0" y="14" class="kicker">PRIMARY SCIENTIFIC STACK</text>
     <g transform="translate(0, 28)" clip-path="url(#barClip)">
-      <rect x="0" y="0" width="368" height="10" fill="#f97316"/><rect x="368" y="0" width="92" height="10" fill="#38bdf8"/>
+      <rect x="0" y="0" width="307" height="10" fill="#f97316"/><rect x="307" y="0" width="77" height="10" fill="#38bdf8"/><rect x="384" y="0" width="76" height="10" fill="#facc15"/>
     </g>
     <g transform="translate(0, 52)">
-      <g transform="translate(0, 0)"><circle cx="5" cy="6" r="4.5" fill="#f97316"/><text x="16" y="10" class="ltxt">Jupyter Notebook (80%)</text></g><g transform="translate(235, 0)"><circle cx="5" cy="6" r="4.5" fill="#38bdf8"/><text x="16" y="10" class="ltxt">Python (20%)</text></g>
+      <g transform="translate(0, 0)"><circle cx="5" cy="6" r="4.5" fill="#f97316"/><text x="16" y="10" class="ltxt">Jupyter Notebook (67%)</text></g><g transform="translate(235, 0)"><circle cx="5" cy="6" r="4.5" fill="#38bdf8"/><text x="16" y="10" class="ltxt">Python (17%)</text></g><g transform="translate(0, 22)"><circle cx="5" cy="6" r="4.5" fill="#facc15"/><text x="16" y="10" class="ltxt">JavaScript (17%)</text></g>
     </g>
   </g>
 </svg>

@@ -4,21 +4,11 @@
 
 <br/><br/>
 
-<a href="https://sbolivar16.github.io">
-  <img src="https://img.shields.io/badge/Interactive_3D_Portfolio-sbolivar16.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://orcid.org/0000-0002-3772-7604">
-  <img src="https://img.shields.io/badge/ORCID-0000--0002--3772--7604-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-<a href="https://www.researchgate.net/profile/Santiago-Bolivar-Avila">
-  <img src="https://img.shields.io/badge/ResearchGate-Santiago_Bolívar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sbolivaravila16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://sbolivar16.github.io"><img src="https://img.shields.io/badge/Interactive_3D_Portfolio-sbolivar16.github.io-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Interactive 3D Portfolio"/></a>
+<a href="https://orcid.org/0000-0002-3772-7604"><img src="https://img.shields.io/badge/ORCID-0000--0002--3772--7604-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+<a href="https://www.researchgate.net/profile/Santiago-Bolivar-Avila"><img src="https://img.shields.io/badge/ResearchGate-Santiago_Bolívar-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
+<a href="https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sbolivaravila16@gmail.com"><img src="https://img.shields.io/badge/Email-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </div>
 
@@ -133,15 +123,11 @@ Explore my research pipeline, live repository metrics, BibTeX publication archiv
 
 **Always open to research collaborations in computational drug discovery, natural products, and open-source cheminformatics.**
 
-<a href="https://sbolivar16.github.io/#contact">
-  <img src="https://img.shields.io/badge/Contact_Me_for_Collaborations-Direct_Form-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<a href="https://sbolivar16.github.io/#contact"><img src="https://img.shields.io/badge/Contact_Me_for_Collaborations-Direct_Form-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Contact Me for Collaborations"/></a>
 &nbsp;
-<a href="mailto:sbolivaravila16@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:sbolivaravila16@gmail.com"><img src="https://img.shields.io/badge/Gmail-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=0ea5e9&style=for-the-badge&label=Profile+Views)
+<img src="https://komarev.com/ghpvc/?username=Sbolivar16&color=0ea5e9&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 <br/><br/>
 

@@ -16,8 +16,8 @@
 <a href="https://www.linkedin.com/in/santiago-bolivar-a-07b3b2143/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:sbolivar16@outlook.com">
-  <img src="https://img.shields.io/badge/Email-sbolivar16@outlook.com-1e293b?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<a href="mailto:sbolivaravila16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -133,8 +133,12 @@ Explore my research pipeline, live repository metrics, BibTeX publication archiv
 
 **Always open to research collaborations in computational drug discovery, natural products, and open-source cheminformatics.**
 
-<a href="mailto:sbolivar16@outlook.com">
-  <img src="https://img.shields.io/badge/Collaborate-sbolivar16@outlook.com-0d9488?style=for-the-badge&logo=maildotru&logoColor=white"/>
+<a href="https://sbolivar16.github.io/#contact">
+  <img src="https://img.shields.io/badge/Contact_Me_for_Collaborations-Direct_Form-0d9488?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sbolivaravila16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sbolivaravila16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Sbolivar16&color=0ea5e9&style=for-the-badge&label=Profile+Views)

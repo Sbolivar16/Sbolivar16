@@ -18,7 +18,7 @@
 
   <rect width="1200" height="175" rx="14" fill="url(#sbg)" stroke="#1e3a5f" stroke-width="1"/>
   <text x="32" y="30" class="kicker">LIVE OPEN-SOURCE IMPACT · AUTO-SYNCED VIA GITHUB ACTIONS</text>
-  <text x="1168" y="30" text-anchor="end" class="meta">Updated 2026-11-15 UTC</text>
+  <text x="1168" y="30" text-anchor="end" class="meta">Updated 2026-11-16 UTC</text>
 
   <!-- 4 Metric Tiles -->
   <g transform="translate(32, 50)">
